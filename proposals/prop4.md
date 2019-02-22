@@ -21,6 +21,10 @@ Notes:
 * Check GitHub permissions
 * Naming conventions!!!!
 * Maybe extra step for dev-ops to ensure everything is ok?
+* Mention no hidden tests
+* Mention hash + salt if you want to hide a value
+* Mention close to functions to assert values
+* Mention setting random seeds
 
 ## Updating an assignment
 * Do changes
