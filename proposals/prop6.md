@@ -40,8 +40,8 @@ processing the exercise notebooks to remove exercise solutions.
 
 
 ## Submission Repository
-This repository provides a structure similar to the *Instructor Repository*
-but without any content.
+This repository is only a skeleton with the learning unit directories of
+the other repositories but without any content.
 Students will fork this to a private personal repository.
 When starting to work on a SLU/BLU the student will copy the corresponding 
 materials from the student repo and work from the submission repo.
