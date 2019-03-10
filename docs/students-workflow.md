@@ -1,4 +1,7 @@
 # Student Workflow
+=================
+Read [README](https://github.com/LDSSA/batch3-students/blob/master/README.md)
+
 * Clone assigment
 * Create environment (from export in repo)
 * Do work

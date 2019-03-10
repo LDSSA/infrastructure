@@ -2,20 +2,15 @@ Contributing Guidelines
 =================
 
 1. [Code of Conduct](#code-of-conduct)
-2. [Teaching Philosophy](#teaching-philosophy)
-3. [Contributing](#contributing)
-4. [Pull Request Process](#pull-request-process)
-5. [Approval Process](#approval-process)
-6. [Milestones](#milestones)
-7. [Infrastructure Team](#infrastructure-team)
+1. [Contributing](#contributing)
+1. [Pull Request Process](#pull-request-process)
+1. [Approval Process](#approval-process)
+1. [Milestones](#milestones)
+1. [Infrastructure Team](#infrastructure-team)
 
 ## Code of Conduct
 
 LDSSA's [Code of Conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct).
-
-## Teaching Philosophy
-
-LDSSA's [Teaching Philosophy](https://github.com/LDSSA/wiki/wiki/Teaching-Philosophy).
 
 ## Contributing
 
@@ -34,7 +29,7 @@ We use the [GitHub flow](https://guides.github.com/introduction/flow/).
 
 1. Anyone on `#dev-ops` can discuss, review, or upvote/downvote Pull Requests
 2. Reviews by Teaching, Quality Assurance, and Student Success are optional but encouraged
-3. Final approval by the Curriculum Development team (merge to master and close the issue).
+3. Final approval by the Infrastructure team (merge to master and close the issue).
 
 ## Milestones
 
