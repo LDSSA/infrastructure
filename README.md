@@ -1,8 +1,11 @@
-# Science Academy Infrastructure
+# Lisbon Data Science Academy Infrastructure
 
-Document the infrastructure and processes needed to run the science academy.
+Lisbon Data Science Academy infrastructure repository.
 
-* [Documentation](docs/home.md)
-* [Proposals](proposals/home.md)
+Start reading [HERE](docs/home.md)
+
+## Contributing
+
+Please read the [CONTRIBUTING](CONTRIBUTING.md) file for details on code conduct, teaching philosophy, and guidelines.
 
 

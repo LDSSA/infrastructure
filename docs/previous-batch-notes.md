@@ -1,4 +1,4 @@
-# Infrastructure Proposal
+# Notes from Previous Batch
 
 ## Local Setups
 There are many subtle differences between package versions and even builds

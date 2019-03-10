@@ -1,6 +1,4 @@
-# Infrastructure Proposal
-
-## Portal
+# Portal
 * Student access & instructor access
 * Check assignments delivered/skipped \[instructor/student\]
 * Check future events \[instructor/student\]
@@ -23,9 +21,4 @@
 * Create hackathon teams \[instructor\]
 * Set hackathon image link and team name \[student\]
 * Run hackathon leaderboard
-
-## Grader
-* Grader keeps all versions of an assignment (ex: lu01-v1.1)
-* GitHub webhook to push updates to assignments (tag to release ex: v1.0)
-* Use the assignment environment to run the notebooks (how to do this?)
 

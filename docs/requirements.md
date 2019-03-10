@@ -31,3 +31,4 @@ Students need to be able to:
 * Students local setup
 * Management portal(s)
 * Grader
+* Repositories
